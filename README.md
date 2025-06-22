@@ -1,1 +1,0 @@
-# Projeto_Python_com_SQLite
